@@ -1,10 +1,12 @@
-# ADmodify sample script
+# HighItemFolders.ps1
 
-This script can bulk modify Active Directory objects. Specifically, this script takes arguments for an LDAP search such as the Search Root, LDAP filter, and Search Scope. It then runs the search and runs a modification against the results returned.
+A script that can analyze folders on all versions, and determine if they were over their limit. It can be used against the entire organization, a single server, or a single database.
 
 ## Description
 
-This script can bulk modify Active Directory objects. Specifically - what this script does is take arguments for an LDAP search such as the Search Root, LDAP filter, and Search Scope. It then runs the search and runs a modification against the results returned. This is a ADModify sample script. It goes with the following blog post: http://msexchangeteam.com/archive/2007/10/19/447301.aspx
+A script that can analyze folders on all versions, and determine if they were over their limit. It can be used against the entire organization, a single server, or a single database. It has the option to search all folders, or only critical folders. It can find folders above the Microsoft recommended limits, or above a specified value. And it can send the results solely to the screen, or export the results to a CSV file. Please see the following blog post for more information: http://msexchangeteam.com/archive/2009/12/07/453450.aspx
+
+Script last updated: 06/18/2010
 
 ## Disclaimer
 

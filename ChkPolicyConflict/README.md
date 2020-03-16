@@ -1,10 +1,10 @@
-# ADmodify sample script
+# chkpolicyconflict.ps1
 
-This script can bulk modify Active Directory objects. Specifically, this script takes arguments for an LDAP search such as the Search Root, LDAP filter, and Search Scope. It then runs the search and runs a modification against the results returned.
+A read-only script to detect ambiguously authoritative e-mail domain names. It goes with the following blog post: http://msexchangeteam.com/archive/2008/09/05/449764.aspx
 
 ## Description
 
-This script can bulk modify Active Directory objects. Specifically - what this script does is take arguments for an LDAP search such as the Search Root, LDAP filter, and Search Scope. It then runs the search and runs a modification against the results returned. This is a ADModify sample script. It goes with the following blog post: http://msexchangeteam.com/archive/2007/10/19/447301.aspx
+A read-only script to detect ambiguously authoritative e-mail domain names. It goes with the following blog post: http://msexchangeteam.com/archive/2008/09/05/449764.aspx
 
 ## Disclaimer
 

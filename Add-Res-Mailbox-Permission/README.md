@@ -1,6 +1,4 @@
-#
-
-Add-Res-Mailbox-Permission.ps1
+# Add-Res-Mailbox-Permission.ps1
 
 This script will do AD searches for all mailboxes associated with disabled accounts, and then automatically add FullAccess permission for service account to all those mailboxes.
 

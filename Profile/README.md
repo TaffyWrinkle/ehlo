@@ -1,6 +1,4 @@
-#
-
-Profile.ps1
+# Profile.ps1
 
 The windows PowerShell profile is a special .ps1 file that PowerShell will load when you initially start your session. PowerShell will automatically load any aliases, function, or variables defined in this file. The profile can be defined on a per system or per users basis.
 

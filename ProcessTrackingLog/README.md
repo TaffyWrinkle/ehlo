@@ -1,6 +1,4 @@
-#
-
-ProcessTrackingLog.vbs
+# ProcessTrackingLog.vbs
 
 The Process Tracking Log tool simplifies parsing, monitoring, and analyzing Message Tracking logs by automating the parsing and analysis of Message tracking logs, and then reporting it back by producing xls or txt output files with meaningful data.
 

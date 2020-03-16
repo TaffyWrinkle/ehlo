@@ -1,10 +1,10 @@
-# ADmodify sample script
+# Fix-alias.ps1
 
-This script can bulk modify Active Directory objects. Specifically, this script takes arguments for an LDAP search such as the Search Root, LDAP filter, and Search Scope. It then runs the search and runs a modification against the results returned.
+This script allows you to identify and modify users, contact and distributions lists that have invalid characters in the alias.
 
 ## Description
 
-This script can bulk modify Active Directory objects. Specifically - what this script does is take arguments for an LDAP search such as the Search Root, LDAP filter, and Search Scope. It then runs the search and runs a modification against the results returned. This is a ADModify sample script. It goes with the following blog post: http://msexchangeteam.com/archive/2007/10/19/447301.aspx
+This script allows you to identify and modify users, contact and distributions lists that have invalid characters in the alias. It goes with the Exchange 2007 Scripting corner post which you can find on this link: http://msexchangeteam.com/archive/2007/06/15/441802.aspx
 
 ## Disclaimer
 

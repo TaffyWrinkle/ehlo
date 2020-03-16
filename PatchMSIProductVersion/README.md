@@ -1,6 +1,4 @@
-#
-
-PatchMSIProductVersion.vbs
+# PatchMSIProductVersion.vbs
 
 There is an issue regarding a version mismatch between the Outlook Web Access (OWA) S/MIME Control in Exchange 2007 SP3. This script will change the version number and resolve the issue.
 

@@ -1,6 +1,4 @@
-#
-
-FixTrackingLogs.ps1
+# FixTrackingLogs.ps1
 
 This script will fix message tracking logs so that they can be imported from another machine and reviewed with the -EndDate parameter on GetMessageTrackingLogs. Use at your own risk. Make file level backups of the tracking log files before running.
 
